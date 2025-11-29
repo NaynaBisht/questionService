@@ -1,0 +1,18 @@
+    # Eclipse-specific files
+    .classpath
+    .project
+    .settings/
+
+    # Compiled output
+    bin/
+    target/ # For Maven/Gradle projects
+
+    # Log files
+    *.log
+
+    # Temporary files
+    *.tmp
+    tmp/
+
+    # IDE-specific configurations (if not in .settings)
+    .metadata/
